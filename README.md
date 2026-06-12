@@ -25,7 +25,9 @@ export GOOGLE_API_KEY="your-free-gemini-key"
 
 > Keep tasks small — the free tier has rate limits, and an agent makes several model calls per run.
 
-You're given `orders.json` again. Work in `first_agent.py` (ADK is comfortable as a script) or a notebook.
+You're given `orders.json` again. (ADK is comfortable as a plain script, but a notebook works too.)
+
+> **No starter code — you build it from scratch.** There's no template in this repo; create your own working file(s) and write the code yourself. This close to the end of the bootcamp, scaffolding your own project is part of the exercise.
 
 ## Your Task
 
